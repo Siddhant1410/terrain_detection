@@ -2,7 +2,7 @@
 
 A Tensorflow based Terrain Recgnition Program.
 
-![alt text]([https://raw.githubusercontent.com/Siddhant1410/TF-Helmet-Detection/main/TF-Helmet-Detection/test_results/img1.JPG](https://user-images.githubusercontent.com/41159205/169493527-82a1e6d3-9b74-4422-a7ae-e170c1b84f2f.jpg))
+![alt text](https://github.com/Siddhant1410/terrain_detection/blob/main/Output.jpg)
 
 # Description
 
